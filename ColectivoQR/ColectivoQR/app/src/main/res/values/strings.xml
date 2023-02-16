@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColectivoQR</string>
+    <string name="action_settings">Salir</string>
+    <string name="create_new">Nuevo</string>
+    <string name="open">Abrir</string>
+    <string name="file">Configuraciones</string>
+    <string name="exit">Salir</string>
+</resources>
